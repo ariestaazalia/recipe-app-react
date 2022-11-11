@@ -6,6 +6,9 @@ This project is using edamam.com API (free plan). In this app, users can get lis
 
 NOTE: the project uses a free plan of API so it has a limitation of 10 search requests per minute.
 
+# Preview
+![RecipeApp](src/images/preview.png)
+
 ## Running the App
 
 In the project directory, you can run:
